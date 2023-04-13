@@ -1,0 +1,59 @@
+body {
+    background-color: #DFDFDF;
+}
+
+.challenge.container {
+    width:100%;
+    padding:0;
+  }
+
+  #title {
+    color: #cdae51;
+    font-weight: bold;
+  }
+
+  .main-image {
+    width: 100%;
+  }
+
+  .pets-link {
+    text-decoration: none;
+    text-align: center;
+    padding-top: 30px;
+  }
+
+  .pets-link a {
+    color: #777777;
+  }
+
+  .intro {
+    text-align: justify;
+    max-width: 600px;
+    margin: auto;
+    padding-bottom: 30px;
+  }
+
+  h3 {
+    text-align: center;
+    font-size: 16px;
+    padding: 30px 0 30px 0;
+    font-weight: bold;
+  }
+
+  .row {
+    background-color: white;
+  }
+  .row div {
+    border: 5px solid #DFDFDF;
+    background-color: white;
+    padding: 15px;
+  }
+
+  h6 {
+    font-weight: bold;
+  }
+
+  .row p {
+    padding-top: 20px;
+  }
+
